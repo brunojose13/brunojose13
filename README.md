@@ -6,9 +6,9 @@
 <br>
 
 <div id="principal">
-    <table>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tr>
-            <td valign="top" width="65%">
+            <td valign="top" width="65%" style="border: none;">
                 <b>Transformar ideias em resultados práticos e ajudar pessoas:</b> esse é o meu verdadeiro motor.
                 <br>
                 <br>
@@ -17,8 +17,8 @@
                 <br>
                 No aspecto técnico, tenho experiência corporativa construindo APIs escaláveis com <b>PHP</b> e <b>Laravel</b>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <u>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</u>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
             </td>
-            <td valign="top" width="35%" align="right">
-                <img src="./assets/bruno-jose-laravel.png" alt="Bruno José — Desenvolvedor Laravel" width="280" />
+            <td valign="top" width="25%" align="right" style="border: none;">
+                <img src="./assets/bruno-jose-backend.png" alt="Bruno José — Desenvolvedor Backend" width="280" />
             </td>
         </tr>
     </table>
