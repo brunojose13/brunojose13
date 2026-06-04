@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Bruno José — Think, Code, Coffee, Repeat" width="100%" />
+</p>
+
 # Olá, me chamo Bruno! 👋
 
 Sou um Desenvolvedor Backend focado em construir aplicações escaláveis, arquiteturas robustas e resolver problemas complexos.
