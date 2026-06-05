@@ -1,8 +1,10 @@
 <p align="center">
   <img src="./assets/github-banner.png" alt="Bruno José - Banner Think Code Coffee Repeat" width="100%" />
 </p>
+<br>
 
-<h1 align="center">Olá, me chamo <code>Bruno</code>! 👋🤝</h1>
+<h1 align="center">Olá, me chamo <b>Bruno</b>! 👋🤝</h1>
+
 
 <div>
   <img align="right" src="./assets/bruno-jose-backend.png" alt="Bruno José - Desenvolvedor Backend" width="215" hspace="2" vspace="5" />
@@ -14,6 +16,7 @@
   <br>
   No aspecto técnico, tenho experiência corporativa construindo APIs escaláveis com <code>PHP</code> e <code>Laravel</code>, desenhando arquiteturas robustas baseadas em Hexagonal/Clean Architecture, DDD, TDD e SOLID. No aspecto humano, <b>valorizo a comunicação assertiva, a análise de problemáticas e o pensamento estratégico</b>, garantindo que o código sempre trabalhe a favor do negócio e das pessoas.
 </div>
+<br>
 
 ## 💻 Linguagens & Tecnologias
 
