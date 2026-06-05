@@ -1,10 +1,9 @@
 <p align="center">
   <img src="./assets/github-banner.png" alt="Bruno José - Banner Think Code Coffee Repeat" width="100%" />
 </p>
+
+<h2 align="center">Olá, me chamo <b>Bruno</b>! 👋🤝</h2>
 <br>
-
-<h1 align="center">Olá, me chamo <b>Bruno</b>! 👋🤝</h1>
-
 
 <div>
   <img align="right" src="./assets/bruno-jose-backend.png" alt="Bruno José - Desenvolvedor Backend" width="215" hspace="2" vspace="5" />
@@ -18,6 +17,6 @@
 </div>
 <br>
 
-## 💻 Linguagens & Tecnologias
+### 💻 Linguagens & Tecnologias
 
 [![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs,grafana,ts,postman,prisma,mongodb,git,github,docker)](https://skillicons.dev/)
