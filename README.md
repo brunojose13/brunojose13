@@ -18,4 +18,4 @@
 
 ## 💻 Linguagens & Tecnologias
 
-![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs,ts,postman,mongodb,git,github,docker)
+[![Linguagens & Tecnologias](https://skillicons.dev/icons?i=php,laravel,mysql,redis,nodejs,ts,postman,mongodb,git,github,docker)](https://skillicons.dev/)
