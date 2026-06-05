@@ -21,10 +21,3 @@
 ![Linguagens](https://skillicons.dev/icons?i=laravel,nodejs,python,java,vue,html,css,js,ts)
 
 ![Tecnologias](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,kafka,git)
-
-## 📫 Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bruno-jose13)&thinsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/channels/@me/547569710762557460/)&thinsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/bjottaz/)&thinsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:brunojose.tech@gmail.com)&thinsp;
