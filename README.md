@@ -27,22 +27,19 @@
 <a href="https://linkedin.com/in/bruno-jose13" target="_blank" alt="Linkedin (bruno-jose13)" title="Linkedin (bruno-jose13)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-&thinsp;
+&nbsp;
 <a href="mailto:brunojose.tech@gmail.com" target="_blank" alt="Gmail (brunojose.tech@gmail.com)" title="Gmail (brunojose.tech@gmail.com)">
     <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-&thinsp;
+&nbsp;
 <a href="https://discord.com/channels/@me/547569710762557460/" target="_blank" alt="Discord (bjottaz)" title="Discord (bjottaz)">
     <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-&thinsp;
+&nbsp;
 <a href="https://www.instagram.com/bjottaz/" target="_blank" alt="Instagram (@bjottaz)" title="Instagram (@bjottaz)">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://discord.com/channels/@me/547569710762557460/" target="_blank" alt="Discord (bjottaz)" title="Discord (bjottaz)">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-</a>
-&thinsp;
+&nbsp;
 <br>
 <br>
 
