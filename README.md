@@ -18,6 +18,4 @@
 
 ## 💻 Linguagens & Tecnologias
 
-![Linguagens](https://skillicons.dev/icons?i=laravel,php,python,java,ts,js,html,css,vue)
-
-![Tecnologias](https://skillicons.dev/icons?i=nodejs,mysql,postgres,redis,docker,kafka,git,mongodb)
+![Linguagens](https://skillicons.dev/icons?i=laravel,php,python,java,ts,js,html,css,vue,nodejs,mysql,postgres,redis,docker,git,mongodb)
